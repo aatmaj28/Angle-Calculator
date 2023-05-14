@@ -1,2 +1,2 @@
 # Angle-Calculator
-The Angle Calculator project utilizes math and computer vision to calculate the angle between any two lines. By plotting three points on a plane, it accurately determines the angle, providing a valuable tool for geometric analysis and measurement. Simplify angle calculations with our efficient and precise Angle Calculator.
+The Angle Calculator project employs math and computer vision to accurately calculate the angle between any two lines. By plotting three points on a plane, it utilizes advanced algorithms to determine the angle, enabling precise geometric analysis and measurements. Simplify angle calculations with our innovative Angle Calculator for comprehensive and accurate results.
